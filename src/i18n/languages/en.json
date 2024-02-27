@@ -1,0 +1,20 @@
+{
+  "error": {
+    "button-action": "Restart the app",
+    "details": "We Encountered an error",
+    "title": "Oops 😞!"
+  },
+  "index-screen": {
+    "body": "Onboard new customers, track accounts opened and more",
+    "button": "LOGIN",
+    "title": "The FoodMart App"
+  },
+  "login-screen": {
+    "button": "LOGIN",
+    "warn": "Only authorised access"
+  },
+  "register-screen": {
+    "button": "CREATE VENDOR",
+    "warn": "Only authorised access"
+  }
+}
